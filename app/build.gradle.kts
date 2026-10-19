@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "io.github.str8spir.carpatch"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "io.github.str8spir.carpatch"
